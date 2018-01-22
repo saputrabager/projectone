@@ -1,0 +1,33 @@
+.user-info{
+	width: 100%
+}
+
+.searchpanel{
+	background: #5b99b1;
+    padding: 12px 14px;
+    border-radius: 6px;
+    text-align: center;
+    margin: 10px 0px;
+}
+
+.form-search{
+	width: 30%;
+	margin: 5px;
+}
+
+.newpost{
+	font-size: 30px;
+	position: fixed;
+    bottom: 2%;
+    right: 8%;
+}
+
+.form1{
+	border: 1px solid grey;
+    padding: 20px;
+    background: #ecebeb;
+}
+
+.labelpost{
+	width: 90px;
+}
