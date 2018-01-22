@@ -21,6 +21,8 @@
 				<label class="labelpost">Title</label>
 				<input class="form-control" type="text" name="p_title">
 			</div>
+
+			
 			<div class="form-group ">
 				<label class="labelpost">Title</label>
 				<input class="form-control" type="text" name="p_title">
